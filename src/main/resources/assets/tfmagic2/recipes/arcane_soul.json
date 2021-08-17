@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfmagic2:charged_crystal_red"
+    },
+	{
+      "item": "tfmagic2:charged_crystal_yellow"
+    },
+	{
+      "item": "tfmagic2:charged_crystal_green"
+    },
+	{
+      "item": "tfmagic2:charged_crystal_blue"
+    },
+	{
+      "item": "tfmagic2:charged_crystal_black"
+    },
+	{
+      "item": "tfmagic2:charged_crystal_white"
+    }
+  ],
+  "result": {
+    "item": "tfmagic2:arcane_soul",
+    "data": 0
+  }
+}

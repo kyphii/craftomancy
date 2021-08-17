@@ -1,0 +1,16 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"cross": "tfmagic2:blocks/flower_frostbell"
+		}
+	},
+	"variants": {
+		"normal": {
+			"model": "cross"
+		},
+		"inventory": {
+			"model": "item"
+		}
+	}
+}

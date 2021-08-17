@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" DS",
+		" GD",
+		"G  "
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:gold_ingot"
+		},
+		"D": {
+			"item": "minecraft:diamond"
+		},
+		"S": {
+			"item": "tfmagic2:arcane_soul",
+			"data": 1
+		}
+	},
+	"result": {
+		"item": "tfmagic2:staff_grand"
+	}
+}

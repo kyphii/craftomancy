@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  M",
+		" I ",
+		"I  "
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"M": {
+			"item": "tfmagic2:mana_crystal"
+		}
+	},
+	"result": {
+		"item": "tfmagic2:staff_metal"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfmagic2:flower_scorchbloom"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 1
+  }
+}

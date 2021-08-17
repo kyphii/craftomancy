@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  M",
+		" O ",
+		"O  "
+	],
+	"key": {
+		"O": {
+			"item": "minecraft:obsidian"
+		},
+		"M": {
+			"item": "tfmagic2:mana_crystal"
+		}
+	},
+	"result": {
+		"item": "tfmagic2:staff_obsidian"
+	}
+}

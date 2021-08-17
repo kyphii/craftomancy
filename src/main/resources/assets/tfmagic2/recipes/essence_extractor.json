@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IGI",
+		"SMS",
+		"SSS"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"G": {
+			"item": "minecraft:glass"
+		},
+		"S": {
+			"item": "minecraft:stone",
+			"data": 0
+		},
+		"M": {
+			"item": "tfmagic2:mana_crystal"
+		}
+	},
+	"result": {
+		"item": "tfmagic2:essence_extractor"
+	}
+}

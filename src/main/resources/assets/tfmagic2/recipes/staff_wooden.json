@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  M",
+		" S ",
+		"S  "
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"M": {
+			"item": "tfmagic2:mana_crystal"
+		}
+	},
+	"result": {
+		"item": "tfmagic2:staff_wooden"
+	}
+}

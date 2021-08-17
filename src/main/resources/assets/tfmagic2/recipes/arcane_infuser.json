@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"LLL",
+		"GMG",
+		"G G"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:gold_ingot"
+		},
+		"L": {
+			"item": "minecraft:dye",
+			"data": 4
+		},
+		"M": {
+			"item": "tfmagic2:mana_crystal"
+		}
+	},
+	"result": {
+		"item": "tfmagic2:arcane_infuser"
+	}
+}

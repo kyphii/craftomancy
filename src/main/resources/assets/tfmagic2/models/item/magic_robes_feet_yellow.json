@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tfmagic2:items/magic_robes_feet_yellow"
+  }
+}

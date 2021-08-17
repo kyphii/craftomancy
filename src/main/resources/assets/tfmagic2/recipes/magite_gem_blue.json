@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tfmagic2:magite_block_blue"
+        }
+    ],
+    "result": {
+        "item": "tfmagic2:magite_blue",
+        "count": 9
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"side": "tfmagic2:blocks/sealed_arcana_side",
+			"top": "tfmagic2:blocks/sealed_arcana_top",
+			"bottom": "tfmagic2:blocks/sealed_arcana_bottom"
+		}
+	},
+	"variants": {
+		"normal": {
+			"model": "cube_bottom_top"
+		},
+		"inventory": {
+			"model": "cube_bottom_top"
+		}
+	}
+}

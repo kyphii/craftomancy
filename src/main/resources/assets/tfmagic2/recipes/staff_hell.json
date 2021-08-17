@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" QM",
+		" BQ",
+		"B  "
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:blaze_rod"
+		},
+		"Q": {
+			"item": "minecraft:quartz"
+		},
+		"M": {
+			"item": "tfmagic2:mana_crystal"
+		}
+	},
+	"result": {
+		"item": "tfmagic2:staff_hell"
+	}
+}

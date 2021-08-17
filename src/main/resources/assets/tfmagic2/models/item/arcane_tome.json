@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tfmagic2:items/arcane_tome_red"
+    },
+    "overrides": [
+        { "predicate": { "color": 0 }, "model": "tfmagic2:item/arcane_tome_red" },
+        { "predicate": { "color": 1 }, "model": "tfmagic2:item/arcane_tome_yellow" },
+        { "predicate": { "color": 2 }, "model": "tfmagic2:item/arcane_tome_green" },
+        { "predicate": { "color": 3 }, "model": "tfmagic2:item/arcane_tome_blue" },
+        { "predicate": { "color": 4 }, "model": "tfmagic2:item/arcane_tome_black" },
+        { "predicate": { "color": 5 }, "model": "tfmagic2:item/arcane_tome_white" }
+    ]
+}

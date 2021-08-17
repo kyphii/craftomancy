@@ -1,0 +1,157 @@
+{
+    "sealed_arcana": {
+		"category": "master",
+		"subtitle": "tfmagic2.subtitle.sealed_arcana",
+		"sounds": [{
+			"name": "tfmagic2:sealed_arcana",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"sealed_arcana_open": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:sealed_arcana_open",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+    "cast_projectile": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_projectile",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_megavolt": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_megavolt",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_siphon": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_siphon",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_excavate": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_excavate",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_avalanche": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_avalanche",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_curse": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_curse",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_delirium": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_delirium",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_radiance": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_radiance",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_corona": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_corona",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+	"cast_guardian_star": {
+		"category": "master",
+		"sounds": [{
+			"name": "tfmagic2:cast_guardian_star",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+    "fluteweed": {
+		"category": "master",
+		"subtitle": "tfmagic2.subtitle.fluteweed",
+		"sounds": [{
+			"name": "tfmagic2:fluteweed",
+			"stream": false,
+			"type": "file"
+		}]
+	},
+    
+    "record_red": {
+		"category": "record",
+		"sounds": [{
+			"name": "tfmagic2:record_red",
+			"stream": true,
+			"type": "file"
+		}]
+	},
+	"record_yellow": {
+		"category": "record",
+		"sounds": [{
+			"name": "tfmagic2:record_yellow",
+			"stream": true,
+			"type": "file"
+		}]
+	},
+	"record_green": {
+		"category": "record",
+		"sounds": [{
+			"name": "tfmagic2:record_green",
+			"stream": true,
+			"type": "file"
+		}]
+	},
+	"record_blue": {
+		"category": "record",
+		"sounds": [{
+			"name": "tfmagic2:record_blue",
+			"stream": true,
+			"type": "file"
+		}]
+	},
+	"record_black": {
+		"category": "record",
+		"sounds": [{
+			"name": "tfmagic2:record_black",
+			"stream": true,
+			"type": "file"
+		}]
+	},
+	"record_white": {
+		"category": "record",
+		"sounds": [{
+			"name": "tfmagic2:record_white",
+			"stream": true,
+			"type": "file"
+		}]
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"side":  "tfmagic2:blocks/mana_collector_side",
+			"top":   "tfmagic2:blocks/mana_collector_top",
+			"down":  "tfmagic2:blocks/mana_collector_bottom",
+			"front": "tfmagic2:blocks/mana_collector_front"
+		}
+	},
+	"variants": {
+		"facing=north": { "model": "orientable" },
+		"facing=south": { "model": "orientable", "y": 180 },
+		"facing=west":  { "model": "orientable", "y": 270 },
+		"facing=east":  { "model": "orientable", "y": 90 },
+		"inventory": {
+			"model": "orientable"
+		}
+	}
+}

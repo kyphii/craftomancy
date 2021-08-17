@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tfmagic2:magite_block_green"
+        }
+    ],
+    "result": {
+        "item": "tfmagic2:magite_green",
+        "count": 9
+    }
+}
